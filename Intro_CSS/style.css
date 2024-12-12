@@ -1,0 +1,25 @@
+#internalCSS{
+    background-color: blueviolet; 
+ }
+
+
+/* Class Selector  */
+.externalCSS{
+    font-size: 20px;
+    text-align: right;
+    background-color: yellowgreen;
+}
+
+/* Element Selector  */
+main{
+    border: 3px rgb(228, 11, 11) dotted;
+    background-color: yellow;
+
+    padding-left: 20px;
+    padding-right: 30px;
+    
+
+}
+footer{
+    color: purple;
+}
